@@ -42,12 +42,4 @@
 
 <p align="left">Cursos Realizados<br>Curso mais didático e completo de C# e OO: composição, herança, coleções, arquivos, LINQ, lambda, delegates e muito mais. Por Nelio Alvez<br><br><br>Curso Web API ASP .NET Core Essencial (.NET 8 / .NET 9). Por Jose Carlos Macoratti</p>
 
-###
 
-<div align="center">
-  <a href="https://open.spotify.com/user/9hyiavwhjf73l7woyx9ad8wei">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=9hyiavwhjf73l7woyx9ad8wei&count=5" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
